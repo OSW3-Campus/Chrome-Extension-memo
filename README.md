@@ -1,4 +1,17 @@
-# Chrome (_Extension_) : Memo
+# Architecture
 
-- [Le manifest](https://github.com/OSW3-Campus/Chrome-Extension-memo/tree/manifest)
-- [Architecture](https://github.com/OSW3-Campus/Chrome-Extension-memo/tree/scaffolding)
+```
+my-project/
+├── _locales/
+│   ├── en/
+│   │   └── messages.json
+│   └── fr/
+│       └── messages.json
+├── images/
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+├── scripts/
+├── styles/
+└── manifest.json
+```
