@@ -12,6 +12,8 @@ my-project/
 │   ├── icon48.png
 │   └── icon128.png
 ├── scripts/
+│   ├── background.js
+│   └── xxxx
 ├── styles/
 └── manifest.json
 ```
