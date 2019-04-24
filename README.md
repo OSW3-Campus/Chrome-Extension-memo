@@ -30,9 +30,10 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
     "default_locale": "fr",
 }
 ```
+<br>
 
 
-###`description`
+### `description`
 
 - Type : `string`
 - Obligatoire : recommandé
