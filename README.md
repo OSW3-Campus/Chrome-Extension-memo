@@ -49,6 +49,29 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
 <br>
 
 
+### `icons`
+
+- Type : `object`
+- Obligatoire : recommandé
+- Description : définition des chemins d'icones
+- [Documentation](https://developer.chrome.com/extensions/manifest/icons)
+
+```json
+{
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+}
+```
+
+- 16x16 : utilisé dans la barre d'extension.
+- 48x48 : utilisé dans la page de gestion des extension (`chrome://extensions`).
+- 128x128 : utilisé dans le Chrome Web Store.
+<br>
+
+
 ### `name`
 
 - Type : `string`
