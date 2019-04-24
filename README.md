@@ -46,6 +46,7 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
     "description": "Création d'une extension Chrome avec OSW3-Campus !",
 }
 ```
+<br>
 
 
 ### `name`
@@ -61,6 +62,7 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
     "name": "Exemple d'extension Chrome.",
 }
 ```
+<br>
 
 
 ###  `manifest_version`
@@ -76,6 +78,7 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
     "manifest_version": 2,
 }
 ```
+<br>
 
 
 ### `version`
@@ -90,3 +93,4 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
     "version": "1.0",
 }
 ```
+<br>
