@@ -104,6 +104,21 @@ Le manifest doit impérativement se trouver à la racine de l'extension.
 <br>
 
 
+###  `permissions`
+
+- Type : `array`
+- Obligatoire : none
+- Description : permet d'accèder aux différents API de Chrome
+- [Documentation](https://developer.chrome.com/extensions/declare_permissions)
+
+```json
+{
+    "permissions": ["tabs"],
+}
+```
+<br>
+
+
 ### `version`
 
 - Type : `string`
